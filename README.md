@@ -1,6 +1,5 @@
 # System-Controller
 [EN]
-# Project Name
 
 This project serves as a valuable learning resource and practical example for both beginners and experienced developers.
 
@@ -36,6 +35,8 @@ This project is licensed under the [MIT License](LICENSE). For detailed informat
 
 
 [TR]
+
+# Sistem Denetleyicisi
 Bu proje, hem yeni başlayanlar için hem de deneyimli geliştiriciler için kullanışlı bir öğrenim kaynağı ve uygulama örneği sunmaktadır.
 
 ## Özellikler
